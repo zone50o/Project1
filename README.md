@@ -30,4 +30,4 @@ To-do list:
 
 # Getting Started 
 
-git clone https:
+git clone https:https://github.com/zone50o/Project1.git
